@@ -8,11 +8,11 @@ analytic project, the main phases of the life-cycle, developing core deliverable
 
 **Learn how to:**
 
-Engage in machine learning using Weka and IBM Watson.
-Employ appropriate statistical tests to test hypotheses on data.
-Implement machine learning algorithms both in supervised and unsupervised learning.
-Utilize relational database management systems, NoSQL, and Hadoop databases.
-Produce relevant visualizations from data.
+- Engage in machine learning using Weka and IBM Watson.
+- Employ appropriate statistical tests to test hypotheses on data.
+- Implement machine learning algorithms both in supervised and unsupervised learning.
+- Utilize relational database management systems, NoSQL, and Hadoop databases.
+- Produce relevant visualizations from data.
 
 **Assignment 1: Supervised learning using SAS**
 
