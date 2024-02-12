@@ -15,6 +15,7 @@ Utilize relational database management systems, NoSQL, and Hadoop databases.
 Produce relevant visualizations from data.
 
 **Assignment 1: Supervised learning using SAS**
+
 The exercise was completed by first importing the breast-cancer-dataset.csv file into SAS and displaying its contents using the import and print procedures as instructed. 
 Subsequently, a decision tree-based classification model was developed using the hpsplit procedure, allowing for an analysis of the confusion matrix, fit statistics, 
 and variable importance through the Results View. Assessment metrics including accuracy, recall, and precision were computed based on the confusion matrix, with a clear 
@@ -22,6 +23,7 @@ identification of the positive class (recurrence-event or not-recurrence-event).
 recalculated to compare the performance of the entropy and gini algorithms in building an accurate classifier.
 
 **Assignment 2: Querying an RDBMS database using SQLiteStudio**
+
 To tackle the exercise, I began by creating a database named "sample" using SQL commands. Within this database, I established a table named "test_data" and loaded the provided
 dataset into it. Subsequently, I crafted SQL queries to fulfill the specified tasks. Firstly, I selected all rows from the "test_data" table where the "menopause" column had the 
 value "ge40" and rows where the "age" column was less than 41. Additionally, I computed the average age across all rows and specifically across rows where the "deg_malig" value equaled 3. 
@@ -31,6 +33,7 @@ The creation of a well-organized database schema facilitated smooth data manipul
 objectives, demonstrating proficiency in SQL query formulation and database management.
 
 **Assignment 3: Querying a NoSQL database using MongoDB**
+
 To complete this assignment using MongoDB, I first created a database named "sample" and within it, I created a collection named "test_data." Then, I loaded the provided data into the collection. 
 For querying the data, I utilized MongoDB's query language. To select all rows where the menopause column has the value "ge40," I used the query {"menopause": "ge40"}. Similarly, to select all rows 
 where age is less than 41, I employed the query {"age": {"$lt": 41}}. For selecting rows where age is less than 41 or the menopause column has the value "ge40," I combined the two conditions using 
